@@ -7,7 +7,7 @@ import edu.csf.oop.java.schedule.logic.GlobalScheduleHandler;
 
 public class GlobalInterface {
     private static final String line = "==========================================================================";
-    public static void main(String[] args) {
+    public static void start() {
         GlobalScheduleHandler scheduleHandler = new GlobalScheduleHandler();
         while (true) {
             try {
@@ -64,7 +64,7 @@ public class GlobalInterface {
                     }
 
                     case 6 -> {
-                        System.exit(1);
+                        return;
                     }
 
                     default -> {
