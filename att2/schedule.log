@@ -1,0 +1,90 @@
+250  [edu.csf.oop.java.schedule.Main.main()] INFO  info.logger - Starting schedule program.
+3479 [edu.csf.oop.java.schedule.Main.main()] INFO  info.logger - Ending schedule program.
+912  [main] INFO  info.logger - Starting schedule program.
+3916 [main] INFO  info.logger - Ending schedule program.
+372  [main] INFO  info.logger - Starting schedule program.
+3493 [main] INFO  info.logger - Ending schedule program.
+386  [main] INFO  info.logger - Starting schedule program.
+3975 [main] INFO  info.logger - Course number 1 with number of groups 1 has been created.
+12644 [main] ERROR info.logger - ERROR: Group 1 already exists.
+605  [main] INFO  info.logger - Starting schedule program.
+5099 [main] INFO  info.logger - Course number 1 with number of groups 1 has been created.
+11059 [main] ERROR info.logger - ERROR: Course 1 already exists.
+20295 [main] ERROR info.logger - ERROR: Group 1 already exists.
+46994 [main] INFO  info.logger - Exemplar of class MyDigitalTime created.
+46995 [main] INFO  info.logger - Exemplar of class MyDigitalTime created.
+47022 [main] INFO  info.logger - Subject [08:00 - 09:35] TFKP Churakova 111 has been created
+47035 [main] INFO  info.logger - Course 1, group 1: subject TFKP has been added in Monday
+53937 [main] INFO  info.logger - Ending schedule program.
+634  [main] INFO  info.logger - Starting schedule program.
+5551 [main] INFO  info.logger - Course number 1 with number of groups 1 has been created.
+38436 [main] INFO  info.logger - Exemplar of class MyDigitalTime created.
+38436 [main] INFO  info.logger - Exemplar of class MyDigitalTime created.
+38474 [main] INFO  info.logger - Subject [08:00 - 09:35] ТФКП Сирота Е.А. 305 has been created
+38490 [main] INFO  info.logger - Course 1, group 1: subject ТФКП has been added in Monday
+126685 [main] INFO  info.logger - Ending schedule program.
+907  [main] INFO  info.logger - Starting schedule program.
+4864 [main] INFO  info.logger - Course number 1 with number of groups 1 has been created.
+10723 [main] INFO  info.logger - Course number 2 with number of groups 10 has been created.
+17283 [main] INFO  info.logger - Ending schedule program.
+486  [main] INFO  info.logger - Starting schedule program.
+4265 [main] INFO  info.logger - Course number 1 with number of groups 1 has been created.
+6234 [main] INFO  info.logger - Ending schedule program.
+334  [main] INFO  info.logger - Starting schedule program.
+3855 [main] INFO  info.logger - Course number 1 with number of groups 1 has been created.
+5654 [main] INFO  info.logger - Trying to get current subject of group 1, course 1
+5655 [main] INFO  info.logger - Exemplar of class MyDigitalTime created.
+5655 [main] INFO  info.logger - ERROR: Current subject not found.
+548  [main] INFO  info.logger - Starting schedule program.
+3522 [main] INFO  info.logger - Course number 1 with number of groups 1 has been created.
+5954 [main] INFO  info.logger - Trying to get current subject of group 1, course 1
+5956 [main] INFO  info.logger - Exemplar of class MyDigitalTime created.
+5956 [main] INFO  info.logger - ERROR: Current subject not found.
+534  [main] INFO  info.logger - Starting schedule program.
+2532 [main] INFO  info.logger - Course number 1 with number of groups 1 has been created.
+400  [main] INFO  info.logger - Starting schedule program.
+19506 [main] INFO  info.logger - Course number 1 with number of groups 1 has been created.
+22235 [main] INFO  info.logger - Ending schedule program.
+350  [main] INFO  info.logger - Starting schedule program.
+3670 [main] INFO  info.logger - Ending schedule program.
+388  [main] INFO  info.logger - Starting schedule program.
+340  [main] INFO  info.logger - Starting schedule program.
+2593 [main] INFO  info.logger - Ending schedule program.
+328  [main] INFO  info.logger - Starting schedule program.
+3295 [main] INFO  info.logger - Course number 1 with number of groups 1 has been created.
+500  [main] INFO  info.logger - Starting schedule program.
+3945 [main] INFO  info.logger - Course number 1 with number of groups 1 has been created.
+5020 [main] INFO  info.logger - Ending schedule program.
+599  [main] INFO  info.logger - Starting schedule program.
+4051 [main] INFO  info.logger - Course number 1 with number of groups 1 has been created.
+6092 [main] INFO  info.logger - Ending schedule program.
+478  [main] INFO  info.logger - Starting schedule program.
+5024 [main] INFO  info.logger - Course number 1 with number of groups 1 has been created.
+53327 [main] INFO  info.logger - Exemplar of class MyDigitalTime created.
+53328 [main] INFO  info.logger - Exemplar of class MyDigitalTime created.
+53364 [main] INFO  info.logger - Subject [09:45 - 11:20] ТФКП Сирота Е,А. 08:00 has been created
+53374 [main] INFO  info.logger - Course 1, group 1: subject ТФКП has been added in Monday
+61161 [main] INFO  info.logger - Ending schedule program.
+431  [main] INFO  info.logger - Starting schedule program.
+4685 [main] INFO  info.logger - Course number 1 with number of groups 1 has been created.
+22178 [main] INFO  info.logger - Course 1, group 1: student Efremov V.A. has been added
+58304 [main] INFO  info.logger - Exemplar of class MyDigitalTime created.
+58305 [main] INFO  info.logger - Exemplar of class MyDigitalTime created.
+58333 [main] INFO  info.logger - Subject [09:45 - 11:20] ТФКП Сирота Е,А. 305П has been created
+58344 [main] INFO  info.logger - Course 1, group 1: subject ТФКП has been added in Monday
+69459 [main] INFO  info.logger - Ending schedule program.
+432  [main] INFO  info.logger - Starting schedule program.
+483  [main] INFO  info.logger - Starting schedule program.
+644  [main] INFO  info.logger - Starting schedule program.
+398  [main] INFO  info.logger - Starting schedule program.
+373  [main] INFO  info.logger - Starting schedule program.
+504  [main] INFO  info.logger - Starting schedule program.
+11578 [main] ERROR info.logger - ERROR: Group 2 has been created.
+65929 [main] INFO  info.logger - Ending schedule program.
+206  [edu.csf.oop.java.schedule.Main.main()] INFO  info.logger - Starting schedule program.
+5425 [edu.csf.oop.java.schedule.Main.main()] INFO  info.logger - Ending schedule program.
+71   [edu.csf.oop.java.schedule.Main.main()] INFO  info.logger - Starting schedule program.
+7776 [edu.csf.oop.java.schedule.Main.main()] INFO  info.logger - Course number 1 with number of groups 1 has been created.
+13991 [edu.csf.oop.java.schedule.Main.main()] INFO  info.logger - Ending schedule program.
+65   [edu.csf.oop.java.schedule.Main.main()] INFO  info.logger - Starting schedule program.
+35091 [edu.csf.oop.java.schedule.Main.main()] INFO  info.logger - Ending schedule program.
